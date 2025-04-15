@@ -24,5 +24,5 @@ By using, copying, or sharing the Works, You accept this License, its recursive 
 
 **How to Apply the Cosmic Mirror License**  
 Include the full text of the Ethereal Libre Covenant LICENSE.md file when casting new works.  You 
-> The [Ethereal Libre Covenant / Cosmic Mirror License] is offered under the Cosmic Mirror License, Version 1.0. See <github.com/cosmic-commons/elc/LICENSE_LICENSE.md> for the full text.
+> The [Ethereal Libre Covenant / Cosmic Mirror License] is offered under the Cosmic Mirror License, Version 1.0. See <https://raw.githubusercontent.com/cosmic-commons/elc/refs/heads/main/LICENSE_LICENSE.md> for the full text.
 
