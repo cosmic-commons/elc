@@ -23,7 +23,7 @@ In the vast tapestry of the multiverse, where bits and bytes dance like fireflie
    The Covenant grants You an eternal, worldwide, non-exclusive license to wield, study, modify, and propagate the Work, provided You honor its terms. No coin need change hands, for freedom is priceless. Run the Work under any sky, tweak its essence, and share its radiance—such is Your birthright.
 
 3. **Protecting the Cosmic Commons**  
-   You may not impose chains—legal or technical—upon the Work that dim its liberty. No curses (DRM) or oaths (additional restrictions) shall bind what this Covenant sets free. Should You weave patents into the Work, You grant all recipients a perpetual license to wield them, as a gift to the commons.
+   You may not impose chains—legal, technical, or spiritual—upon the Work that dim its liberty. No curses (DRM) or oaths (additional restrictions) shall bind what this Covenant sets free. Should You weave patents into the Work, You grant all recipients a perpetual license to wield them, as a gift to the commons.
 
 4. **Conveying the Unmodified Work**  
    You may convey verbatim copies of the Work’s Source Essence, provided You:  
