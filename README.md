@@ -1,0 +1,1 @@
+Cosmic Commons seeks Wizards
